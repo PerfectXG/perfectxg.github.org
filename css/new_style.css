@@ -1,0 +1,26 @@
+body{
+    font-family: 'Creepster', cursive;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* Шапка */
+div.header{
+    height: auto;
+    background: #373737;
+}
+.navbar-brad img {
+    width: 80px;
+}
+header .mnu_top{
+    list-style-type: none;
+}
+header .mnu_top li{
+    display: inline-block;
+}
+header .mnu_top li a{
+    display: block;
+    text-decoration: none;
+    color: aliceblue;
+}
